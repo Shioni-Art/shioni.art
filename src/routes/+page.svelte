@@ -4,7 +4,7 @@
         width: 100vw;
         height: 100vh;
         background-size: cover;
-        background-image: url(japanese-streets-with-modern-houses/4248613.jpg);
+        background-image: url(/japanese-streets-with-modern-houses/4248613.jpg);
     }
 </style>
 
