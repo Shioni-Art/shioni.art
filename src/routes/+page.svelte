@@ -1,2 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<img
+    src="https://media.tenor.com/G_n-KffB79YAAAAi/shake-anime.gif"
+    alt=""
+    class="absolute bottom-0 left-[50px]"
+/>
